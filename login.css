@@ -1,0 +1,31 @@
+body{
+    background-image: url(login.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.login{
+    border-style: ridge;
+    border-color: blue;
+    width: 25%;
+    margin-top:10%;
+    margin-left: 35%;
+    background-color: rgb(202, 202, 202);
+    height: auto;
+}
+.form{
+    margin-left: 0;
+    padding: 0 10px 0 10px; 
+}
+.form .tulis{
+    margin-left: 40%
+}
+.form p input{
+    width: 100%;
+    background-color: rgb(214, 200, 200);
+    color: black
+}
+.form p button{
+    text-decoration: none;
+    color: black;
+    margin-left: 40%
+}
